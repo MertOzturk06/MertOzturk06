@@ -1,6 +1,7 @@
-<div align="center">
-  <img height="150" src="https://64.media.tumblr.com/21093522d1617bc865eed5c589d0aa40/19f46930603678b5-5f/s540x810/6fe9e39ab1854f9e1ffd064f2f4bc28dccd01785.gif"  />
-</div>
+###
+
+![jinx gif](https://github.com/user-attachments/assets/1664b34c-50b8-4518-b07d-a6d47a9ed014)
+
 
 ###
 
