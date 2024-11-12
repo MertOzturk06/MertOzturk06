@@ -36,10 +36,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
 <p align="left">🌟 **"Başarı, hayal gücünün gerçeğe dönüşmesidir. Başarılı olmak için, azimle çalışarak hayallerimizi gerçekleştirebiliriz. Mutluluk ise, bu yolculukta yaşadığımız her anın kıymetini bilmektir."** - Nelson Mandela</p>
 
 ###
